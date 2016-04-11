@@ -1,4 +1,4 @@
-#include "eecs230.h"
+#include <eecs230.h>
 
 /*
  * Part 1: Foot-to-Centimeter Converter

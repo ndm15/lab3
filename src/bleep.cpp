@@ -1,4 +1,4 @@
-#include "eecs230.h"
+#include <eecs230.h>
 
 // check if the input string matches a string inside the input vector of strings
 bool checkWord(vector<string> list, string input){
