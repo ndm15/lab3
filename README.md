@@ -274,7 +274,7 @@ So let's set that up for lab3:
     `origin` remote to your local copy. Go to *VCS* > *Git* > *Pull…*.
     Before you click the “Pull” button, make sure that the remote is set
     (back) to `origin`. (Pulling from your fork won't do anything, since
-    you're currently in synch with your fork.) Complete the pull, and
+    you're currently in sync with your fork.) Complete the pull, and
     you should now have both the changes you made and the changes your
     TA made in one place.
 
