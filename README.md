@@ -12,10 +12,10 @@ most important concepts is the *current working directory*. This is sort
 of like “where you are” on your computer when you type a command.
 
 For example, you might be in your home directory (`/Users/YOURNAME` on
-Mac, or maybe `C:\Users\YOURNAME`), which means that when you type a
-filename, it means a file in that directory (unless you give its full
-name, starting with `/` or `C:\`). And when you run a command like Git
-or pipenv, it looks in your current directory for what files to work
+Mac, or maybe `C:\Users\YOURNAME` on Windows), which means that when you
+type a filename, it means a file in that directory (unless you give its
+full name, starting with `/` or `C:\`). And when you run a command like
+Git or pipenv, it looks in your current directory for what files to work
 with as well.
 
 So, you need to be able to:
