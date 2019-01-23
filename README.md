@@ -175,6 +175,9 @@ If you've done it right you should see these files:
  - README.md
  - lab3.py
  - pytest.ini
+ - .venv (hidden on Mac)
+ - .git (hidden on Mac)
+ - .gitignore (hidden on Mac)
 
 The next step is going to be to run pipenv to set things up. The tricky
 part is finding pipenv. And to do that, we’re going to ask Python. You
