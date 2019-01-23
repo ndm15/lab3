@@ -187,8 +187,8 @@ refer to the Python interpreter as `$PY`. That might mean one of these:
  - `C:\Python37\python.exe` (definitely Windows)
  - `python`
 
-Whatever it's called, check and make sure it's the right version, and
-
+Whatever it's called, check and make sure it's the right version
+(3.7.2), and don't move on until it is.
 
 ```
 Mac$ $PY --version
