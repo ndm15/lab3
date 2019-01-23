@@ -258,7 +258,8 @@ So let's set that up for lab3:
   4. Now open the Push dialog (*VCS* > *Git* > *Push*), but before you
      click the “Push” button, you want to change the destination remote
      from `origin` to your new remote (`my_fork`?). At the top, you
-     should see something like ``master -> origin : master.'' Clicking
+     should see something like
+     ``master → origin : master.'' Clicking
      `origin` will let you change it to your other remote. Then push.
 
   5. Now here’s the fun part: Your TA is going to make a change to
