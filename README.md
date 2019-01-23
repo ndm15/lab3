@@ -81,8 +81,8 @@ Win> dir
 ```
 
 You can also see what is someplace else. The special name `..` means the
-
-list that includes the directory you are currently in:
+parent directory of your current directory, so you should see a
+listing that includes the directory you are currently in:
 
 ```
 Mac$ ls ..
