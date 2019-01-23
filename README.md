@@ -171,6 +171,7 @@ Win> dir
 If you've done it right you should see these files:
 
  - Pipfile
+ - Pipfile.lock
  - README.md
  - lab3.py
  - pytest.ini
